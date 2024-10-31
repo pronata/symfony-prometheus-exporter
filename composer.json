@@ -1,5 +1,5 @@
 {
-    "name": "tasko-products/symfony-prometheus-exporter",
+    "name": "pronata/symfony-prometheus-exporter",
     "description": "Generic metrics exporter for Symfony including messenger event metrics via middleware, request metrics, logging metrics and custom metrics via the Collector composition",
     "type": "symfony-bundle",
     "require": {
